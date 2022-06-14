@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "app",
+    "slug": "app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "googleServicesFile": "./google-services.json",
+      "package": "com.emma.associationapp",
+      "config":{
+        "googleSignIn":{
+          "apiKey": "AIzaSyA4JpuY651lkn6mqpv4l_-GlmKVSdeE0pM",
+          "certificateHash": "EC2A33B6270B1641BBC38C2A9B4854DE5F3A33E3"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "IOS_KEY": "403019091549-n4nq6nr80puncvkissdthaai80p19b53.apps.googleusercontent.com",
+      "ANDROID_KEY": "403019091549-9bjiqj60kq4h4qrhp018fm6hr2bsaeno.apps.googleusercontent.com",
+      "ANDROID_KEY_STANDALONE": "403019091549-4t8e2b4mp108ktpl7k6erq21sfshcqko.apps.googleusercontent.com"
+    }
+  }
+}

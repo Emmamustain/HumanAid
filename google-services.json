@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "403019091549",
+    "project_id": "association-app-ea7e3",
+    "storage_bucket": "association-app-ea7e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403019091549:android:71434e6155f736c88b47b4",
+        "android_client_info": {
+          "package_name": "com.emma.associationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403019091549-4t8e2b4mp108ktpl7k6erq21sfshcqko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emma.associationapp",
+            "certificate_hash": "ec2a33b6270b1641bbc38c2a9b4854de5f3a33e3"
+          }
+        },
+        {
+          "client_id": "403019091549-rcuf0cjhikprcmpt7cg1d8hc9fkubfth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4JpuY651lkn6mqpv4l_-GlmKVSdeE0pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403019091549-rcuf0cjhikprcmpt7cg1d8hc9fkubfth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

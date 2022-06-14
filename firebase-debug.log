@@ -1,0 +1,21 @@
+[debug] [2022-04-12T22:12:50.091Z] ----------------------------------------------------------------------
+[debug] [2022-04-12T22:12:50.093Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Rusty\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-04-12T22:12:50.093Z] CLI Version:   9.18.0
+[debug] [2022-04-12T22:12:50.093Z] Platform:      win32
+[debug] [2022-04-12T22:12:50.093Z] Node Version:  v16.14.2
+[debug] [2022-04-12T22:12:50.094Z] Time:          Tue Apr 12 2022 23:12:50 GMT+0100 (GMT+01:00)
+[debug] [2022-04-12T22:12:50.094Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-04-12T22:12:50.100Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-04-12T22:12:50.100Z] > authorizing via signed-in user (myassociationapp2022@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Rusty\GitHub\Expo\app
+
